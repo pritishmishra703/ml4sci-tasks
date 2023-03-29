@@ -1,0 +1,1 @@
+Please take a look at [report.pdf](https://github.com/pritishmishra703/ml4sci-tasks/blob/master/report.pdf) for a detailed description of the dataset, problem statement, model architecture, hyperparameter tuning, and results for each task.
